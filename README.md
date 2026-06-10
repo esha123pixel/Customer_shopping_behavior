@@ -1,0 +1,1 @@
+Used feature engineering (SQL, Python: pandas, numpy) and Power BI (DAX) to identify revenue drivers: subscribers spent 68% more, contributed 45% of revenue, and Express Shipping increased AOV by 12%. Built an interactive dashboard and recommended business optimization strategies.
